@@ -24,7 +24,7 @@ Interface graphique : Qt (PySide6 / PyQt6)
 
 Architecture : découplage strict entre le moteur logique de simulation et l'interface de visualisation (MVC).
 
-## Installation & Lancement ##
+## Installation & Lancement
 
 **Cloner le dépôt**
 git clone https://github.com/Nobout/evolutionary-simulation-of-life.git
