@@ -1,0 +1,21 @@
+# Interface Graphique (Qt pour Python)
+
+PySide6>=6.6.0
+
+# Calculs numériques et structures de grille matricielle
+
+numpy>=1.26.0
+
+# Visualisation graphique et tableaux de bord en temps réel (intégré à Qt)
+
+pyqtgraph>=0.13.3
+
+# Analyse de données et export des séries temporelles (métriques d'écosystème)
+
+pandas>=2.1.0
+
+matplotlib>=3.8.0
+
+# Qualité de code et tests unitaires (comportements agents, règles d'évolution)
+
+pytest>=8.0.0
