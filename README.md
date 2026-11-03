@@ -4,7 +4,7 @@ Projet d'ingénierie (4A) portant sur la modélisation et la simulation d'un éc
 
 Dépôt : github.com/Nobout/evolutionary-simulation-of-life
 
-Présentation
+## Présentation
 
 Ce projet vise à modéliser un environnement discret dans lequel évoluent des agents autonomes soumis à des contraintes de survie, d'exploitation de ressources et de reproduction. L'objectif est d'observer l'émergence de dynamiques démographiques et de comportements adaptatifs à partir de règles locales simples.
 
