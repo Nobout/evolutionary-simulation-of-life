@@ -34,5 +34,5 @@ cd evolutionary-simulation-of-life
 python -m venv venv
 source venv/bin/activate  # Sur Windows : venv\Scripts\activate
 
-### Installer les dépendances (à venir)
+### Installer les dépendances
 pip install -r requirements.txt
