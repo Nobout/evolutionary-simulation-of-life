@@ -1,0 +1,43 @@
+Projet 4A/
+├── .gitignore
+├── pyproject.toml
+├── README.md
+├── requirements.txt
+├── src/
+│   ├── main_gui.py
+│   ├── main_headless.py
+│   ├── controller/
+│   │   ├── __init__.py
+│   │   └── sim_controller.py
+│   ├── core/
+│   │   ├── __init__.py
+│   │   ├── config.py
+│   │   ├── enums.py
+│   │   ├── math_utils.py
+│   │   ├── creatures/
+│   │   │   ├── __init__.py
+│   │   │   ├── animals.py
+│   │   │   ├── base_creature.py
+│   │   │   ├── components.py
+│   │   │   └── human.py
+│   │   ├── environment/
+│   │   │   ├── __init__.py
+│   │   │   ├── base_entity.py
+│   │   │   ├── resources.py
+│   │   │   └── structures.py
+│   │   └── world/
+│   │       ├── __init__.py
+│   │       ├── map_generator.py
+│   │       ├── tile.py
+│   │       └── world.py
+│   └── gui/
+│       ├── __init__.py
+│       ├── entity_styles.py
+│       ├── inspector_panel.py
+│       ├── main_window.py
+│       ├── stats_panel.py
+│       └── viewport.py
+└── tests/
+    ├── test_creatures_and_genetics.py
+    ├── test_environment.py
+    └── test_math_and_world.py
